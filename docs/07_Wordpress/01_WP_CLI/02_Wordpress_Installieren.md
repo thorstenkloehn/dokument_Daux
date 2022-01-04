@@ -20,6 +20,12 @@ wp config create --dbname=wordpress --dbuser=root --dbpass=Test --locale=de_DE
 wp db create
 ```
 * [doc]()
+
+## Wprdpress themen hinunterladen
+```
+wp theme install https://github.com/thorstenkloehn/wordpress/archive/refs/heads/master.zip --activate
+
+```
 ## Weblink 
 
 * [Doc](https://make.wordpress.org/cli/handbook/guides/quick-start/)
