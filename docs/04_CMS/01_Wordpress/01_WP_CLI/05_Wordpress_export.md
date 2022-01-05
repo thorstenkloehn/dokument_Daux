@@ -1,0 +1,6 @@
+## Wordpress exportieren
+
+```
+wp export
+```
+
