@@ -20,12 +20,35 @@ wp config create --dbname=wordpress --dbuser=root --dbpass=Test --locale=de_DE
 wp db create
 ```
 * [doc]()
-
-## Wprdpress themen hinunterladen
-```
-wp theme install https://github.com/thorstenkloehn/wordpress/archive/refs/heads/master.zip --activate
+## Wordpress Installieren
 
 ```
+wp core install --url=localhost --title=Test --admin_user=Test --admin_password=Test --admin_email=info@localhost
+```
+
+## Debug anschalten 
+```
+wp config set --raw WP_DEBUG true
+```
+
+## Wordpress Core Update
+
+```
+wp core update
+wp language core update
+```
+## Memory Limit auf 512MB hochsetzen
+
+```
+wp config set WP_MEMORY_LIMIT 512M
+```
+## Cache löschen
+
+```
+wp cache flush
+
+```
+
 ## Weblink 
 
 * [Doc](https://make.wordpress.org/cli/handbook/guides/quick-start/)
