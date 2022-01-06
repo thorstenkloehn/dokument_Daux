@@ -5,8 +5,6 @@
 ```
 
 
-    setx CARGO_HOME  e:\CARGO_HOME
-    setx RUSTUP_HOME  e:\RUSTUP_HOME
     setx TEMP e:\AppData\Local\Temp
     setx TMP e:\AppData\Local\Temp
     setx GOPATH d:\go
@@ -45,7 +43,6 @@
 
 ### Programmiersprachen
 
-* [Rust](https://www.rust-lang.org/)
 * [Go](https://golang.org/)
 * [Nodejs](https://nodejs.org/en/download)
 * [Python](https://www.python.org/downloads/)
