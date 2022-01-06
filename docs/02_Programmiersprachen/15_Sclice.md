@@ -4,5 +4,3 @@
 
 
 ## Javascript Slice
-
-## Rust Sclice

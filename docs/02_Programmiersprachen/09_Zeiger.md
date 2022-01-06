@@ -16,11 +16,7 @@ Datentypen *Variable_Name;
 ```
 let Variable_Name:*Datentypen;
 ```
-### Zuweisungen Zeiger Rust
-```
-let Variable_Name:Datentypen = Wert;
-let Zeiger_Name:&Datentypen = &Variable_Name;
-```
+
 ### Zuweisungen Zeiger C
 ```
 Datentypen Variable_Name = Wert;

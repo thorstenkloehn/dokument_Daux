@@ -19,8 +19,7 @@
 
 * const Datentypen Variable_Name = Wert;
 
-## Rust
-* const Variable_Name:Datentypen = Wert;
+
 
 
 

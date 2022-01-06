@@ -22,18 +22,7 @@ return 0;
 }
 
 ```
-### Rust Klasse definieren
 
-```
-struct Klassen_Name {
-    Mitglieder_Name:Datentypen
-}
-impl Klassen_Name {
-
-fn Methoden_Name(&self) {
-}
-}
-```
 
 ### Go Klasse definieren
 

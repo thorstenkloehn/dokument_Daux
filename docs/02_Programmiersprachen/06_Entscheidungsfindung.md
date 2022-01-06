@@ -12,8 +12,7 @@
 ### C++ Einseitige Auswahl
 * if (Bedingung){Anweisung}
 
-### Rust Einseitige Auswahl
-* if Bedingung {Anweisung}
+
 
 ### Javascript Einseitige Auswahl
 * if (Bedingung) {Anweisung}
@@ -35,8 +34,7 @@
 
 
 
-## Rust Zweiseige Auswahl
-* if Bedingung {Anweisung_Wahr} else {Anweisung_Falsch}
+
 ## Javascript Zweiseige Auswahl
 * if (Bedingung){Anweisung_Wahr} else {Anweisung_Falsch}
 
@@ -82,24 +80,6 @@ default:Anweisung n
        }
 ```
 
-
-
-## Rust Mehrseitige Auswahl
-
-```
-  match Selektor {
-
-        1 => {
-            Anweisung 1
-        }
-            _=> {
-            
-            Anweisung n
-
-        }
-    }
-
-```
 
 ## Javascript Mehrseitige Auswahl
 

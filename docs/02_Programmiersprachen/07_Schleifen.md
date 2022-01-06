@@ -25,9 +25,7 @@ Solange Bedingung erfüllt ist, führe Anweisungen aus.
 
 
 
-### Rust  Widerholung mit vorangestelltem Test
 
-* while Bedingung {Anweisung}
 
 ## Allgemein Widerholung mit nachgestelltem Test
 
@@ -85,13 +83,7 @@ Anweisung
 ```
 
 
-### Rust mit 10 Gezählte Wiederholen
-```
-for init in 0..10 {
-{
-Anweisung
-}
-```
+
 
 
 ### Javascript Gezählte Wiederholen

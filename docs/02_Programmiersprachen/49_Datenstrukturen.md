@@ -18,12 +18,7 @@ type Struktur_Name struct {
 	Mitglieder_Name [Länge]Datentypen
 }
 ```
-### Definieren einer Struktur Rust
-```
-struct Struktur_Name {
-    Mitglieder_Name: Datentypen,
-}
-````
+
 
 ### Auf Strukturmitglieder zugreifen C
 

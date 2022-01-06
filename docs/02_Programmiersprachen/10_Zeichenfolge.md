@@ -11,8 +11,7 @@
 
 * var Zeichenfolge string
 
-### Defination Zeichenfolge Rust
-* let Zeichenfolge = String::new();
+
 
 ###  Defination Zeichenfolge Javascript
 
@@ -30,9 +29,7 @@
 ### Defination und Deklaration Zeichenfolge Go
 * var Zeichenfolge  = Text
 
-### Defination und Deklaration Zeichenfolge Rust
 
-* let Zeichenfolge=Text;
 
 ### Defination und Deklaration Zeichenfolge Javascript
 
@@ -57,12 +54,7 @@ var Zeichenfolge1 = Zeichenfolge
 
 ```
 
-### String kopieren in Rust
 
-```
-let Zeichenfolge=Text;
-let Zeichenfolge1=Zeichenfolge;
-```
 
 ###  String kopieren in Javascript
 
@@ -94,12 +86,7 @@ var Zeichenfolge=Text
 var Zeichenfolge1=Text1
 var Zeichenfolge2=Zeichenfolge+Zeichenfolge1
 ```
-### String Verkette in Rust
-```
-   let zeichenfolge = Text;
-   let zeichenfolge1 = Text1;
-   let zeichenfolge2 = zeichenfolge.to_owned()+zeichenfolge1;
-```
+
 ### String Verkette in Javascript
 
 ```
@@ -131,12 +118,7 @@ var zeichenfolge = Text
 var Länge = len(Zeichenfolge)
 ```
 
-### String Länge in Rust
-```
-let Zeichenfolge =Text;
-let Länge =Zeichenfolge.len();
 
-```
 ### String Länge in Javascript
 
 ```

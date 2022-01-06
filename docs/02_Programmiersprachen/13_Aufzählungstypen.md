@@ -18,16 +18,3 @@ enum Aufzaehl_Name {
 
 ```
 
-## Aufzählungstypen in Rust
-
-```
-
-enum Aufzaehl_Name {
-
-    Wert1,
-    Wert2,
-    Wert3
-};
-
-
-```

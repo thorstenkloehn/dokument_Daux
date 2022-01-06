@@ -100,17 +100,7 @@ Datentypen Variable_Name = Funktion_Name();
 
 
 
-### Rust Funktion mit Rückgabe und ohne  Parameter angaben.
 
-```
-fn Funktion_Name() ->Datentypen {
-Anweisung;
-return Datentypen;
-}
-fn main() {
-let Variable:Datentypen=Funktion_Name();
-}
-```
 
 ### Javascript mit Rückgabe und ohne  Parameter angaben.
 
@@ -159,16 +149,7 @@ Funktion_Name(Wert);
 
 
 
-### Rust Funktion ohne Rückgabe und mit Parameter angaben.
 
-```
-fn Funktion_Name(Parameter:Datentypen){
-   Anweisung
-}
-fn main() {
-       Funktion_Name(Wert);
-}
-```
 
 ### Javascript Funktion ohne Rückgabe und mit Parameter angaben.
 ```

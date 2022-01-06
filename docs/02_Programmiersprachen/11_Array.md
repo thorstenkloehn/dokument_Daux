@@ -28,10 +28,7 @@ Datentypen Array_Name[Array_Länge]={Wert};
 var Array_Name = []Datentypen {Wert}
 ```
 
-### Defination und Deklaration Array Rust
-```
-let Array_Name:[Datentypen;Länge] = [Wert];
-```
+
 
 ### Defination und Deklaration Array Javascript
 ```
@@ -106,13 +103,7 @@ func  Funktion_Name (Array_Name[]Datentypen){
 Anweisung
 }
 ```
-### Übergabe von Arrays als Funktionsargumente in Rust
 
-```
-fn Funktion_Name(Array_Name:[Datentypen;Array_Länge]) {
-    Anweisung
-    }
-```
 ### Array von Funktion in C zurückgeben
 
 ```
@@ -160,7 +151,3 @@ function Funktion_Name() {
 let Variable_Name = Funktion_Name();
 
 ```
-
-
-
-### Array von Funktion in Rust

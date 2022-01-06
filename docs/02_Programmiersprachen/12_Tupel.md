@@ -19,8 +19,3 @@ let Tuple_Name= [Wert,Wert];
 
 ```
 
-Erstellt eine neue Tuple in Rust
-```
-let Tuple_Name = (Wert);
-
-```
