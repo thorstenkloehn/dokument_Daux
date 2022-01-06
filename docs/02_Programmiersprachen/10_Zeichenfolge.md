@@ -127,10 +127,3 @@ let Laenge = Zeichenfolge.length;
 
 ```
 
-
-
-### String Formartieren Rust
-```
-let Zeichenfolge=Text;
-let Zeichenfolge1 = format!("{}",Zeichenfolge);
-```
