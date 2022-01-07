@@ -44,7 +44,6 @@
 ### Programmiersprachen
 
 * [Go](https://golang.org/)
-* [Nodejs](https://nodejs.org/en/download)
 * [Python](https://www.python.org/downloads/)
 * [PHP](https://windows.php.net/download#php-7.4)
 * [Composer](https://getcomposer.org/)
