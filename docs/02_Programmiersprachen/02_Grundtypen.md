@@ -132,7 +132,14 @@
 ### Logik Typen
 * Logik Typen = bool
 
+## Java
 
+### Ganzezahlen
+
+* int8 =byte
+* int16 = short
+* int32 = int
+* int64 = long
 
 
 

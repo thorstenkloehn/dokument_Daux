@@ -15,3 +15,7 @@
 ## Javascript
 
 * [Allgemein Javascript](https://www.tutorialspoint.com/javascript/)
+
+## Java
+
+* [Allgemein Java](https://www.tutorialspoint.com/java/)
