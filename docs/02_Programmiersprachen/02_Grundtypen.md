@@ -141,6 +141,9 @@
 * int32 = int
 * int64 = long
 
+### Kommazahlen
 
+* float = f32
+* double= f64
 
 
