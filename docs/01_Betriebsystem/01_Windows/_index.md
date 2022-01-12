@@ -21,12 +21,12 @@
 ### Browser
 
 * [Microsoft Edge](https://www.microsoft.com/en-us/edge)
-* [Google Chrome](https://www.google.de/chrome>)
+* [Google Chrome](https://www.google.de/chrome)
 
 ### Versionsverwaltungssoftware
 
 
-* [Git Installieren](https://git-scm.com>)
+* [Git Installieren](https://git-scm.com/)
 
 ### Allgemeine Module
 
