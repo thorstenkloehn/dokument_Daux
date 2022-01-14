@@ -1,4 +1,0 @@
-## Website
-
-* Hugo
-* Nikola

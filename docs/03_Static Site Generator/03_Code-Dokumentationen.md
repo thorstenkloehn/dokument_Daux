@@ -1,3 +1,0 @@
-* MKDocs
-* Sphinx
-* Daux.io
