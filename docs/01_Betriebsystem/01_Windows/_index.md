@@ -4,7 +4,8 @@
 
 ```
 
-
+    setx CARGO_HOME  e:\CARGO_HOME
+    setx RUSTUP_HOME  e:\RUSTUP_HOME
     setx TEMP e:\AppData\Local\Temp
     setx TMP e:\AppData\Local\Temp
     setx GOPATH d:\go
@@ -47,7 +48,8 @@
 * [Python](https://www.python.org/downloads/)
 * [PHP](https://windows.php.net/download#php-7.4)
 * [Composer](https://getcomposer.org/)
-
+* [Rust](https://www.rust-lang.org/)
+* [Nodejs](https://nodejs.org/en/download)
 
 ## IDE
 
