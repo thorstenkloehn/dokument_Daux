@@ -23,5 +23,3 @@
 ## PHP
 
 ## Python
-
-## Rust
