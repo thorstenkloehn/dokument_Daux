@@ -19,3 +19,9 @@
 ## Java
 
 * [Allgemein Java](https://www.tutorialspoint.com/java/)
+
+## PHP
+
+## Python
+
+## Rust
