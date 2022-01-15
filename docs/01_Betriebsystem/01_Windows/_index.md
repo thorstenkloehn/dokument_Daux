@@ -50,6 +50,7 @@
 * [Composer](https://getcomposer.org/)
 * [Rust](https://www.rust-lang.org/)
 * [Nodejs](https://nodejs.org/en/download)
+* [Dotnet](https://dotnet.microsoft.com/en-us/download/dotnet)
 
 ## IDE
 
