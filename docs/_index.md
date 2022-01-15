@@ -20,8 +20,4 @@
 
 * [Allgemein Java](https://www.tutorialspoint.com/java/)
 
-## PHP
-
-## Python
-
 ## C#
