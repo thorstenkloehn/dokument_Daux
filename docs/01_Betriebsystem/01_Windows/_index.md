@@ -45,11 +45,9 @@
 ### Programmiersprachen
 
 * [Go](https://golang.org/)
-* [Python](https://www.python.org/downloads/)
 * [PHP](https://windows.php.net/download#php-7.4)
 * [Composer](https://getcomposer.org/)
 * [Rust](https://www.rust-lang.org/)
-* [Nodejs](https://nodejs.org/en/download)
 * [Dotnet](https://dotnet.microsoft.com/en-us/download/dotnet)
 
 ## IDE
