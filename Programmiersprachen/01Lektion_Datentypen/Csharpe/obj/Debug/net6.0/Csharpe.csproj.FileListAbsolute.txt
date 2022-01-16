@@ -1,0 +1,15 @@
+D:\dokument\Programmiersprachen\01Lektion_Datentypen\Csharpe\bin\Debug\net6.0\Csharpe.exe
+D:\dokument\Programmiersprachen\01Lektion_Datentypen\Csharpe\bin\Debug\net6.0\Csharpe.deps.json
+D:\dokument\Programmiersprachen\01Lektion_Datentypen\Csharpe\bin\Debug\net6.0\Csharpe.runtimeconfig.json
+D:\dokument\Programmiersprachen\01Lektion_Datentypen\Csharpe\bin\Debug\net6.0\Csharpe.dll
+D:\dokument\Programmiersprachen\01Lektion_Datentypen\Csharpe\bin\Debug\net6.0\ref\Csharpe.dll
+D:\dokument\Programmiersprachen\01Lektion_Datentypen\Csharpe\bin\Debug\net6.0\Csharpe.pdb
+D:\dokument\Programmiersprachen\01Lektion_Datentypen\Csharpe\obj\Debug\net6.0\Csharpe.csproj.AssemblyReference.cache
+D:\dokument\Programmiersprachen\01Lektion_Datentypen\Csharpe\obj\Debug\net6.0\Csharpe.GeneratedMSBuildEditorConfig.editorconfig
+D:\dokument\Programmiersprachen\01Lektion_Datentypen\Csharpe\obj\Debug\net6.0\Csharpe.AssemblyInfoInputs.cache
+D:\dokument\Programmiersprachen\01Lektion_Datentypen\Csharpe\obj\Debug\net6.0\Csharpe.AssemblyInfo.cs
+D:\dokument\Programmiersprachen\01Lektion_Datentypen\Csharpe\obj\Debug\net6.0\Csharpe.csproj.CoreCompileInputs.cache
+D:\dokument\Programmiersprachen\01Lektion_Datentypen\Csharpe\obj\Debug\net6.0\Csharpe.dll
+D:\dokument\Programmiersprachen\01Lektion_Datentypen\Csharpe\obj\Debug\net6.0\ref\Csharpe.dll
+D:\dokument\Programmiersprachen\01Lektion_Datentypen\Csharpe\obj\Debug\net6.0\Csharpe.pdb
+D:\dokument\Programmiersprachen\01Lektion_Datentypen\Csharpe\obj\Debug\net6.0\Csharpe.genruntimeconfig.cache
