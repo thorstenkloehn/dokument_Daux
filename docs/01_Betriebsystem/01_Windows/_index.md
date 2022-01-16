@@ -45,8 +45,6 @@
 ### Programmiersprachen
 
 * [Go](https://golang.org/)
-* [PHP](https://windows.php.net/download#php-7.4)
-* [Composer](https://getcomposer.org/)
 * [Rust](https://www.rust-lang.org/)
 
 ## IDE
@@ -54,7 +52,7 @@
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) Erste Installieren und Starten
 * [CLion](https://www.jetbrains.com/clion/)
 * [JetBrains-Gateway](https://www.jetbrains.com/help/idea/2021.3/remote-development-a.html#gateway>)
-
+* [Rider](https://www.jetbrains.com/rider/)
 ## Visual Studio Code
 
 * [Download](https://code.visualstudio.com)
