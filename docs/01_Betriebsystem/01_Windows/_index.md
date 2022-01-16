@@ -48,7 +48,6 @@
 * [PHP](https://windows.php.net/download#php-7.4)
 * [Composer](https://getcomposer.org/)
 * [Rust](https://www.rust-lang.org/)
-* [Dotnet](https://dotnet.microsoft.com/en-us/download/dotnet)
 
 ## IDE
 
