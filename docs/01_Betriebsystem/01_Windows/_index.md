@@ -31,7 +31,7 @@
 
 ### Allgemeine Module
 
-* [visual Cpp Build Tools](https://visualstudio.microsoft.com/de/downloads)
+* [visual Cpp Build Tools](https://visualstudio.microsoft.com/de/downloads) nur C++
 * [Msys2](https://www.msys2.org/)
 * [MSYS2 Packages](https://packages.msys2.org/updates)
 
@@ -53,6 +53,7 @@
 * [CLion](https://www.jetbrains.com/clion/)
 * [JetBrains-Gateway](https://www.jetbrains.com/help/idea/2021.3/remote-development-a.html#gateway>)
 * [Rider](https://www.jetbrains.com/rider/)
+* [Visual Studio](https://visualstudio.microsoft.com/de/downloads)
 ## Visual Studio Code
 
 * [Download](https://code.visualstudio.com)
