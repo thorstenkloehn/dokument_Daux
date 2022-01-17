@@ -81,6 +81,8 @@ sudo apt install python3 python3-dev git curl python-is-python3  python3-pip
 ## Java
 
 ```
+
+sudo apt-get install openjdk-17-jre  openjdk-17-jdk -y
 apt-get install tomcat9
 
 ```
