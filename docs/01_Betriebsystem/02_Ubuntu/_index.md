@@ -81,7 +81,7 @@ sudo apt install python3 python3-dev git curl python-is-python3  python3-pip
 ## Java
 
 ```
-sudo apt install openjdk-17-jdk-headless
+apt install default-jdk
 
 ```
 ## Node
