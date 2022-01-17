@@ -81,7 +81,7 @@ sudo apt install python3 python3-dev git curl python-is-python3  python3-pip
 ## Java
 
 ```
-apt install default-jdk
+apt-get install tomcat9
 
 ```
 ## Node
@@ -183,6 +183,3 @@ sudo  systemctl enable ahrensburg.service
 ```
 
 
-## Komplett Einleitung
-
-* [Komplett Einleitung](https://www.f
