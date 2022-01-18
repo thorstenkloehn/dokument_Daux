@@ -2,13 +2,12 @@
 
 ```
 
-dotnet new mvc  --no-https  --auth Individual -o Startseite
+dotnet new mvc  --auth Individual -o Programm_Name
 dotnet tool install --global dotnet-ef
 
 
 
 
-###   
-dotnet ef migrations add InitialCreate
+
 
 ```
