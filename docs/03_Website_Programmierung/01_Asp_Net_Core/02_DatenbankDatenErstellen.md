@@ -11,7 +11,7 @@ dotnet ef database update
 ```
 {
   "ConnectionStrings": {
-    "DefaultConnection": "server=localhost; port=3306; database=test; user=root; password=Wxp@Mysql; Persist Security Info=False; Connect Timeout=300"
+    "DefaultConnection": "server=localhost; port=3306; database=asp; user=root; password=Test; Persist Security Info=False; Connect Timeout=300"
   },
 
 ```
