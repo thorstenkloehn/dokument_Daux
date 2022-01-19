@@ -16,3 +16,10 @@ dotnet ef database update
 
 ```
 
+## Program.cs
+
+```
+  options.UseMySql(connectionString,ServerVersion.Parse("8.0.28-mysql")));
+
+
+```
