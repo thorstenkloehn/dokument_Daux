@@ -6,14 +6,14 @@
 
 ```
 e:
-cd mysql-8.0.27-winx64/mysql-8.0.27-winx64/bin
+cd mysql-8.0.27-winx64/mysql-8.0.28-winx64/bin
 mysqld --initialize-insecure
 mysqld --console
 
 Neu Console Starten
 
 e:
-cd mysql-8.0.27-winx64/mysql-8.0.27-winx64/bin
+cd mysql-8.0.27-winx64/mysql-8.0.28-winx64/bin
 mysql -u root --skip-password
 
 $ Mysql ändern
@@ -23,9 +23,9 @@ $ Mysql ändern
 
 CMD Admin Rechte Starten
 e:
-cd mysql-8.0.27-winx64/mysql-8.0.27-winx64/bin
+cd mysql-8.0.27-winx64/mysql-8.0.28-winx64/bin
 mysqld --install
 
 Umgebungvariable 
-mysql e:\mysql-8.0.27-winx64/mysql-8.0.27-winx64/bin
+mysql e:\mysql-8.0.27-winx64/mysql-8.0.28-winx64/bin
 ```
