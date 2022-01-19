@@ -24,13 +24,12 @@
 * [Der moderne Java-Kurs, vom Anfänger zum Profi](https://www.udemy.com/course/java-training-ullenboom/)
 ### Spring.io
 
-* [Spring und Hibernate für Anfänger (mit Spring Boot 2)](Spring und Hibernate für Anfänger (mit Spring Boot 2))
+* [Spring und Hibernate für Anfänger (mit Spring Boot 2)](https://www.udemy.com/course/spring-beginner/)
 
 ## C#
 
 * [Allgemein C#](https://www.tutorialspoint.com/csharp)
 * [C# programmieren lernen - der ultimative C Sharp Kurs](https://www.udemy.com/course/c-sharp-programmieren-tutorial/)
-* [Der C# Intensivkurs - OOP, WPF, SQL, Windows Forms und Git!](https://www.udemy.com/course/csharp-grundlagenkurs-fuer-anfaenger/)
 
 ### Asp Net Core
 
