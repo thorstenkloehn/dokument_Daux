@@ -1,9 +1,9 @@
 ## Modell erstellen
 
 ### Gerüstbau 
-'''
+```
 dotnet ef dbcontext scaffold "Server=localhost;User=root;Password=Test;Database=thorsten" "Pomelo.EntityFrameworkCore.MySql"
-'''
+```
 ## Datenbank migration
 
 ```
