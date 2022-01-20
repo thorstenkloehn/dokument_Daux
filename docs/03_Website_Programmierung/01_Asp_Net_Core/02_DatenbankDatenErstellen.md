@@ -1,5 +1,9 @@
 ## Modell erstellen
 
+### Gerüstbau 
+'''
+dotnet ef dbcontext scaffold "Server=localhost;User=root;Password=Test;Database=thorsten" "Pomelo.EntityFrameworkCore.MySql"
+'''
 ## Datenbank migration
 
 ```
@@ -11,7 +15,7 @@ dotnet ef database update
 ```
 {
   "ConnectionStrings": {
-    "DefaultConnection": "server=localhost; port=3306; database=asp; user=root; password=Test; Persist Security Info=False; Connect Timeout=300"
+    "DefaultConnection": "server=localhost; port=3306; database=asp; user=root; password=Test;"
   },
 
 ```
