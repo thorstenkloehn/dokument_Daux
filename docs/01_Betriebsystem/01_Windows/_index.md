@@ -48,7 +48,7 @@
 * [Rust](https://www.rust-lang.org/)
 * [PHP](https://windows.php.net/download#php-7.4)
 * [Composer](https://getcomposer.org/)
-
+* [Nodejs](https://nodejs.org/en/download/current/)
 
 ## IDE
 
