@@ -34,3 +34,8 @@
 ### Asp Net Core
 
 * [ASP.NET Core Intensivkurs - C# Anwendungen und WebAPIs](https://www.udemy.com/course/aspnet-core-intensivkurs/)
+
+
+### Laravel 8
+
+* [Kurs](https://www.youtube.com/watch?v=ALXuyC0uIOs&list=PLIBtxqFY3QHo5zLZKWXCkus8qMvaIAMn9&index=1)
