@@ -55,7 +55,7 @@
 * [CLion](https://www.jetbrains.com/clion/)
 * [JetBrains-Gateway](https://www.jetbrains.com/help/idea/2021.3/remote-development-a.html#gateway>)
 * [Rider](https://www.jetbrains.com/rider/)
-
+* [Visual Studio](https://visualstudio.microsoft.com/de/downloads)
 ##  Visual Studio-Code
 
 * [Herunterladen](https://code.visualstudio.com)
