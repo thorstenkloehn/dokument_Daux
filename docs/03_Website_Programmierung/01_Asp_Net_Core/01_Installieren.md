@@ -3,4 +3,5 @@
 ```
 dotnet new mvc  --auth Individual -o Programm_Name
 dotnet tool install --global dotnet-ef
+dotnet tool install -g dotnet-aspnet-codegenerator
 ```
