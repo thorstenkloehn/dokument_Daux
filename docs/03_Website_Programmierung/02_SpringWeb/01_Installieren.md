@@ -5,7 +5,7 @@ d:
 mkdir express
 cd express
 npm init
-
+npm install express
 ```
 
 ## Express Index.js
