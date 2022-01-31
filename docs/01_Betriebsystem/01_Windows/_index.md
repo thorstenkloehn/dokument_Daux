@@ -49,6 +49,7 @@
 * [PHP](https://windows.php.net/download#php-7.4)
 * [Composer](https://getcomposer.org/)
 * [Nodejs](https://nodejs.org/en/download/) Bitte nur LTS Installieren
+* [Python](https://www.python.org/downloads)
 
 ## IDE
 
