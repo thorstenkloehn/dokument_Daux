@@ -1,7 +1,6 @@
-## Django Installieren
+## Installieren
 
 ```
-
 pip3 install django
 
 ```
