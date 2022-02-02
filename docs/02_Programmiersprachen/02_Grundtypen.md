@@ -132,32 +132,4 @@
 ### Logik Typen
 * Logik Typen = bool
 
-## Java
 
-### Ganzezahlen
-
-* int8 =byte
-* int16 = short
-* int32 = int
-* int64 = long
-
-### Kommazahlen
-
-* float = f32
-* double= f64
-
-
-## C#
-
-### Ganzezahlen
-
-* byte=int8
-* short=int16
-* int=int32
-* long=int64
-* sbyte=uint8
-* ushort=uint16
-* uint=uint32
-* ulong=uint64
-
-### Kommazahlen
