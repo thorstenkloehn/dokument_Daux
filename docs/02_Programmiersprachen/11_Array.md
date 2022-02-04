@@ -1,28 +1,11 @@
 ## Array
-### Defination Array C
-
-```
-Datentypen Array_Name[Array_Länge];
-```
-
-### Defination Array C++
-
-```
-Datentypen Array_Name[Array_Länge];
-```
+#
 
 ### Defination Array Go
 ```
 var Array_Name[Array_Länge] Datentypen
 ```
-### Defination und Deklaration Array C
-```
-Datentypen Array_Name[Array_Länge]={Wert};
-```
-### Defination und Deklaration Array C++
-```
-Datentypen Array_Name[Array_Länge]={Wert};
-```
+
 ### Defination und Deklaration Array Go
 ```	
 var Array_Name = []Datentypen {Wert}
@@ -35,59 +18,6 @@ var Array_Name = []Datentypen {Wert}
 let array_Name=[Wert];
 
 ```
-
-
-
-### Übergabe von Arrays als Funktionsargumente in C
-
-* 1 Weg Formale Parameter als Zeiger
-
-```
-
-void Funktion_Name(Datentypen*Array_Name){
-Anweisung
-}
-
-```
-
-* 2 Weg Formale Parameter als Größenarray
-```
-void Funktion_Name(Datentypen Array_Name[Array_Länge]){
-  Anweisung 
-}
-```
-* Formale Parameter als Array ohne Größe −
-```
-void Funktion_Name(Datentypen Array_Name[]) {
-Anweisung
-}
-```
-
-### Übergabe von Arrays als Funktionsargumente in C
-
-* 1 Weg Formale Parameter als Zeiger
-
-```
-
-void Funktion_Name(Datentypen*Array_Name){
-Anweisung
-}
-
-```
-
-* 2 Weg Formale Parameter als Größenarray
-```
-void Funktion_Name(Datentypen Array_Name[Array_Länge]){
-  Anweisung 
-}
-```
-* 3 Weg Formale Parameter als Array ohne Größe −
-```
-void Funktion_Name(Datentypen Array_Name[]) {
-Anweisung
-}
-```
-
 ### Übergabe von Arrays als Funktionsargumente in Go
 
 * 1 Weg Formale Parameter als Array mit der Größe wie folgt.
@@ -104,21 +34,6 @@ Anweisung
 }
 ```
 
-### Array von Funktion in C zurückgeben
-
-```
-Datentypen*Funktion_Name() {
-Anweisung
-}
-```
-
-### Array von Funktion in C++ zurückgeben
-
-```
-Datentypen*Funktion_Name() {
-Anweisung
-}
-```
 
 ### Array von Funktion in Go zurückgeben
 

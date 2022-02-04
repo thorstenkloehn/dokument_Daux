@@ -1,8 +1,3 @@
-## C und C++
-### Variable ohne Wert zuweisung
-* Datentypen Variable_Name;
-### Variable mit Wert zuweisung
-* Datentypen Variable_Name=Wert
 
 ## Go
 ### Variable ohne Wert zuweisung

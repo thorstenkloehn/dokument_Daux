@@ -1,11 +1,6 @@
 ## Zeichenfolge
 
-### Defination Zeichenfolge C
 
-* char Zeichenfolge[Zeichenfolge Länge];
-
-### Defination Zeichenfolge C++
-* std::string Zeichenfolge;
 
 ### Defination Zeichenfolge Go
 
@@ -17,15 +12,6 @@
 
 * let Zeichenfolge;
 
-
-### Defination und Deklaration Zeichenfolge C
-
-* char Zeichenfolge[]=Text;
-
-### Defination und Deklaration Zeichenfolge c++
-
-* std::string Zeichenfolge = Text;
-
 ### Defination und Deklaration Zeichenfolge Go
 * var Zeichenfolge  = Text
 
@@ -35,17 +21,6 @@
 
 * let Zeichenfolge=Text;
 
-
-
-### Strings kopieren in C
-* ``` #include <string.h> ```
-* strcpy(Ziel_Zeichenfolge,Quell_Zeichenfolge);
-### String kopieren in C++
-```
-std::string Zeichenfolge=Text
-std::string Zeichenfolge1 = Zeichenfolge
-
-```
 ### String kopieren in Go
 
 ```
@@ -65,19 +40,7 @@ let Zeichenfolge1=Zeichenfolge;
 
 
 
-#### String Verkette in C
-``` 
-#include <string.h>
-void main() {
-strcat(Ziel_Zeichenfolge,Quell_Zeichenfolge);
- }
- ```
-### String Verkette in C++
-```
-std::string Zeichenfolge =Text;
-std::string Zeichenfolge1=Text1
-std::string Zeichenfolge2=Zeichenfolge+Zeichenfolge1
-```
+
 
 ### String Verkette in Go
 
@@ -86,7 +49,6 @@ var Zeichenfolge=Text
 var Zeichenfolge1=Text1
 var Zeichenfolge2=Zeichenfolge+Zeichenfolge1
 ```
-
 ### String Verkette in Javascript
 
 ```
@@ -94,23 +56,6 @@ var Zeichenfolge2=Zeichenfolge+Zeichenfolge1
    let zeichenfolge1 = Text1;
    let zeichenfolge2 = zeichenfolge+zeichenfolge1;
 ```
-
-
-
-### String Länge in C
-```
-int Länge strlen(Text);
-```
-
-### String Länge C++
-
-```
-
-std::string Zeichenfolge=Text;
-int Länge = Zeichenfolge.length();
-
-```
-
 ### String Länge in Go
 
 ```
