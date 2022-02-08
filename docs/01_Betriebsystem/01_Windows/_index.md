@@ -49,7 +49,7 @@
 
 ## IDE
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) Erste Installieren und Starten
-* [JetBrains-Gateway](https://www.jetbrains.com/help/idea/2021.3/remote-development-a.html#gateway>)
+* [clion](https://www.jetbrains.com/clion/)
 
 
 
