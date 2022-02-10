@@ -46,6 +46,7 @@
 
 * [Rust](https://www.rust-lang.org/)
 * [Nodejs](https://nodejs.org/en/download/) Bitte nur LTS Installieren
+* [Python](https://www.python.org/downloads/)
 
 ## IDE
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) Erste Installieren und Starten
