@@ -51,7 +51,7 @@
 ## IDE
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) Erste Installieren und Starten
 * [clion](https://www.jetbrains.com/clion/)
-
+* [Visual Studio]
 ## Editor
 
 * [Visual Studio code](https://code.visualstudio.com/)
