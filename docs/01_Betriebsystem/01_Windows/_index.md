@@ -48,7 +48,8 @@
 * [Nodejs](https://nodejs.org/en/download/) Bitte nur LTS Installieren
 * [Python](https://www.python.org/downloads)
 * [Swift](https://www.swift.org/download)
-
+* [PHP](https://windows.php.net/download)
+* [Composer](https://getcomposer.org/)
 ## IDE
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) Erste Installieren und Starten
 * [clion](https://www.jetbrains.com/clion/)
