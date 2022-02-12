@@ -1,6 +1,6 @@
 ## Installieren
 
-* [PHP](https://windows.php.net/download#php-7.4)
+* [PHP](https://windows.php.net/download)
 * [Composer](https://getcomposer.org/)
 
 ## Daux.io Installieren
