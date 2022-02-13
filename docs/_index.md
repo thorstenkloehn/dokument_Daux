@@ -16,5 +16,3 @@
 * [Allgemein Python](https://www.tutorialspoint.com/python)
 ## Javascript
 * [Allgemein Javascript](https://www.tutorialspoint.com/javascript)
-## PHP
-* [Allgemein PHP](https://www.tutorialspoint.com/php/)
