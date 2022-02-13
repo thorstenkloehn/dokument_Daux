@@ -56,7 +56,10 @@
 * [Rider](https://www.jetbrains.com/rider/)
 * [ReSharper](https://www.jetbrains.com/resharper/)
 * [ReSharper C++](https://www.jetbrains.com/resharper-cpp/)
+* [Qt](https://www.qt.io/download)
 ## Editor
+
+
 
 
 
