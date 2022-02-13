@@ -53,9 +53,6 @@
 ## IDE
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) Erste Installieren und Starten
 * [clion](https://www.jetbrains.com/clion/)
-* [Rider](https://www.jetbrains.com/rider/)
-* [ReSharper](https://www.jetbrains.com/resharper/)
-* [ReSharper C++](https://www.jetbrains.com/resharper-cpp/)
 * [Qt](https://www.qt.io/download)
 ## Editor
 
