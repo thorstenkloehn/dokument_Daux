@@ -44,7 +44,6 @@
 
 ### Programmiersprachen
 * [Rust](https://www.rust-lang.org/)
-* [Swift](https://www.swift.org/download)
 ## IDE
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) Erste Installieren und Starten
 * [clion](https://www.jetbrains.com/clion/)
