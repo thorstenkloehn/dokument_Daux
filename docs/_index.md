@@ -12,8 +12,7 @@
 * [Allgemein C++](https://www.tutorialspoint.com/cplusplus/)
 ## Rust
 * [Allgemein Rust](https://www.tutorialspoint.com/rust)
-## Python
-* [Allgemein Python](https://www.tutorialspoint.com/python)
+
 ## C#
 * [Allgemein C#](https://www.tutorialspoint.com/csharp)
 ## Javascript

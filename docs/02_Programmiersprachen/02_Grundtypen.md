@@ -21,4 +21,9 @@
 * Logik Typen = bool
 
 
-
+## Swift
+### Ganzahlen
+* int8 = Int8
+* int16 = Int16
+* int32 = Int32
+* int64 = Int64
