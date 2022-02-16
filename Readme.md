@@ -9,7 +9,7 @@
 brew install php
 curl -sS https://getcomposer.org/installer | php
 mv composer.phar /usr/local/bin/composer
-open -e  ~/.zshrc
+open -e  ~/.bash_profile
 alias composer="php /usr/local/bin/composer"
 ```
 ### Daux.io Installieren
