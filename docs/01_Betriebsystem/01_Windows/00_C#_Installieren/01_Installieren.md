@@ -28,3 +28,7 @@
 * github.remotehub
 * zxh404.vscode-proto3
 * ms-mssql.mssql
+
+### Dotnet
+
+* [dotnet](https://dotnet.microsoft.com/en-us/download/dotnet)
