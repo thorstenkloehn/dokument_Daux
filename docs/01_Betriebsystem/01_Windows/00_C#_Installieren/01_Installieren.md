@@ -18,16 +18,9 @@
 ### Visual Studio Erweiterung
 
 * C#
-* ms-toolsai.jupyter
+* jupyter
 * .NET Interactive
-* ms-dotnettools.csharp
-* ms-dotnettools.dotnet-interactive-vscode
-* tinytoy.msbuild-project-tools
-* humao.rest-client
-* icsharpcode.ilspy-vscode
-* github.remotehub
-* zxh404.vscode-proto3
-* ms-mssql.mssql
+
 
 ### Dotnet
 
