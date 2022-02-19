@@ -31,7 +31,7 @@
 
 ### Allgemeine Module
 
-* [visual Cpp Build Tools](https://visualstudio.microsoft.com/de/downloads) nur C++
+* [Visual Cpp Build Tools](https://visualstudio.microsoft.com/de/downloads) nur C++
 * [Msys2](https://www.msys2.org/)
 * [MSYS2 Packages](https://packages.msys2.org/updates)
 
@@ -47,10 +47,10 @@
 * [Python](https://www.python.org/downloads/)
 * [PHP](https://windows.php.net/download#php-8.1)
 * [Composer](https://getcomposer.org/)
-* 
 ## IDE
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) Erste Installieren und Starten
 * [clion](https://www.jetbrains.com/clion/)
+* [Rider](https://www.jetbrains.com/rider/)
 ## Editor
 
 
