@@ -11,9 +11,8 @@
 
 ### Einzelne Komponenten
 
-* Klassendesigner
-* Git für Windows
-* Präventiver Schutz - Dotfuscator
+
+* Dotfuscator
 
 ### Visual Studio Erweiterung
 
