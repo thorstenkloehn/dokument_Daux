@@ -27,3 +27,13 @@
 * int16 = Int16
 * int32 = Int32
 * int64 = Int64
+
+
+## Java
+
+### Ganzahlen
+
+* int8 = byte
+* int16 = short
+* int32 = int
+* int64 = long
