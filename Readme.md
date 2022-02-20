@@ -16,6 +16,6 @@ composer global require daux/daux.io
 ## Mac Installieren
 ```
 echo 'export PATH="$PATH:$HOME/.composer/vendor/bin"' >> ~/.bashrc
-
+source ~/.bashrc
 
 ````
