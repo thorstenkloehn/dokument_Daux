@@ -1,3 +1,34 @@
+## C
+### 32 Bit Rechner
+* int8 =char
+* int16=short
+* int16=int
+* int64=long
+* uint8=usigned char
+* uint16=usigned short
+* uint16=usigned int
+* uint32=usigned long
+
+
+### 64 Bit Rechner
+* int8 =char
+* int16=short
+* int32=int
+* int64=long
+* uint8=usigned char
+* uint16=usigned short
+* uint32=usigned int
+* uint64=usigned long
+
+### Kommazahlen
+
+* f32 = float
+* f64 = double
+
+### Leere Datentypen
+
+* Leere = void
+
 ## Go
 ### Ganzahlen
 * int8 = int8
@@ -21,12 +52,6 @@
 * Logik Typen = bool
 
 
-## Swift
-### Ganzahlen
-* int8 = Int8
-* int16 = Int16
-* int32 = Int32
-* int64 = Int64
 
 
 ## Java
