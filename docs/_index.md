@@ -1,9 +1,5 @@
 ## Go
-
 * [Allgemein Go](https://www.tutorialspoint.com/go/index.htm)
-
-## Swift
-* [Allgemein Swift](https://www.tutorialspoint.com/swift)
 ## Kotlin
 * [Allgemein Kotlin](https://www.tutorialspoint.com/kotlin/)
 ## Java
@@ -12,7 +8,6 @@
 * [Allgemein C++](https://www.tutorialspoint.com/cplusplus/)
 ## Rust
 * [Allgemein Rust](https://www.tutorialspoint.com/rust)
-
 ## C#
 * [Allgemein C#](https://www.tutorialspoint.com/csharp)
 ## Javascript
