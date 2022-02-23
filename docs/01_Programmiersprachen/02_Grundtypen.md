@@ -3,7 +3,7 @@
 * int8 =char
 * int16=short
 * int16=int
-* int64=long
+* int32=long
 * uint8=usigned char
 * uint16=usigned short
 * uint16=usigned int
