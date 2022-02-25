@@ -19,7 +19,7 @@
 * [Kotlin - das moderne Java](https://www.udemy.com/course/kotlin-das-moderne-java/)
 ## C#
 * [Allgemein C#](https://www.tutorialspoint.com/csharp)
-* [Der C# Intensivkurs - OOP, WPF, SQL, Windows Forms und Git!](https://www.udemy.com/course/csharp-grundlagenkurs-fuer-anfaenger/)
+* [C# programmieren lernen - der ultimative C Sharp Kurs](https://www.udemy.com/course/c-sharp-programmieren-tutorial)
 ## Javascript
 * [Allgemein Javascript](https://www.tutorialspoint.com/javascript)
 * [Die ultimative JavaScript Masterclass vom Anfänger zum Profi](https://www.udemy.com/course/javascript-komplett/)

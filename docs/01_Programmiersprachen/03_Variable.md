@@ -1,4 +1,6 @@
-
+## C
+### Variable ohne Wert zuweisung
+* Datentypen Variable_Name;
 ## Go
 ### Variable ohne Wert zuweisung
 * var Variable_Name datentypen
