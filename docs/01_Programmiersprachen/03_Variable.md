@@ -1,6 +1,14 @@
 ## C
 ### Variable ohne Wert zuweisung
 * Datentypen Variable_Name;
+### Variable mit Wert zuweisung in C
+* Datentypen Variable_Name = Wert;
+
+## C++
+### Variable ohne Wert zuweisung
+* Datentypen Variable_Name;
+### Variable mit Wert zuweisung in C++
+* Datentypen Variable_Name = Wert;
 ## Go
 ### Variable ohne Wert zuweisung
 * var Variable_Name datentypen
