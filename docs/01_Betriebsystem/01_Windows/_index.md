@@ -47,6 +47,7 @@
 * [Python](https://www.python.org/downloads/)
 * [PHP](https://windows.php.net/download#php-8.1)
 * [Composer](https://getcomposer.org/)
+* [Nodejs](https://nodejs.org/en/download/)
 ## IDE
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) Erste Installieren und Starten
 * [clion](https://www.jetbrains.com/clion/)
