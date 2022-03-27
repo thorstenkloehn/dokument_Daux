@@ -15,3 +15,10 @@ wp config create --dbname=Wordpress --dbuser=root --dbpass=db_Password --locale=
 ```
 wp db create --allow-root
 ```
+##  wp plugin Installieren
+
+```
+wp plugin install gdpr  --activate --allow-root
+
+
+```
