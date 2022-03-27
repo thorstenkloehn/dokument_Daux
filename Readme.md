@@ -1,5 +1,4 @@
 ## Installieren
-
 ### Windows
 * [PHP](https://windows.php.net/download)
 * [Composer](https://getcomposer.org/)
