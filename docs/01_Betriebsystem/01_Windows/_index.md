@@ -51,7 +51,6 @@
 ## IDE
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) Erste Installieren und Starten
 * [clion](https://www.jetbrains.com/clion/)
-* [Rider](https://www.jetbrains.com/rider/)
 ## Editor
 
 
