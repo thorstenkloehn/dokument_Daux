@@ -50,8 +50,7 @@
 * [Nodejs](https://nodejs.org/en/download/)
 ## IDE
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) Erste Installieren und Starten
-* [clion](https://www.jetbrains.com/clion/)
-## Editor
+
 
 
 

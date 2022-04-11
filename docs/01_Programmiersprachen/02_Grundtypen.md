@@ -1,70 +1,3 @@
-## C
-### 32 Bit Rechner
-* int8 =char
-* int16=short
-* int16=int
-* int32=long
-* uint8=usigned char
-* uint16=usigned short
-* uint16=usigned int
-* uint32=usigned long
-
-
-### 64 Bit Rechner
-* int8 =char
-* int16=short
-* int32=int
-* int64=long
-* uint8=usigned char
-* uint16=usigned short
-* uint32=usigned int
-* uint64=usigned long
-
-### Kommazahlen
-
-* f32 = float
-* f64 = double
-
-### Leere Datentypen
-
-* Leere = void
-
-## C++ 
-## 32 Bit Rechner
-* int8 =char
-* int16=short
-* int16=int
-* int64=long
-* uint8=usigned char
-* uint16=usigned short
-* uint16=usigned int
-* uint32=usigned long
-
-
-### 64 Bit Rechner
-* int8 =char
-* int16=short
-* int32=int
-* int64=long
-* uint8=usigned char
-* uint16=usigned short
-* uint32=usigned int
-* uint64=usigned long
-
-### Kommazahlen
-
-* f32 = float
-* f64 = double
-
-### Leere Datentypen
-
-* Leere = void
-
-### Logik Typen
-
-* Logik Typen = bool
-
-
 ## Go
 ### Ganzahlen
 * int8 = int8
@@ -83,30 +16,6 @@
 * f32 = float32
 * f64 = float64
 
-### Logik Typen
-
-* Logik Typen = bool
-
-## Rust
-
-### Ganzahlen
-* int8 = i8
-* int16=i16
-* int32=i32
-* int64=i64
-* int128=i128
-
-
-* uint8 = u8
-* uint16 = u16
-* uint32 = u32
-* uint64 = u64
-* uint128 = u128
-
-### Kommazahlen
-
-* f32 = f32
-* f64 = f64
 ### Logik Typen
 
 * Logik Typen = bool

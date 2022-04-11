@@ -1,11 +1,6 @@
-
 ## Go
 
 * const Variable_Name Datentypen = Wert;
-
-
-
-
 
 ## Javascript
 
