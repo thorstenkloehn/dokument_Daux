@@ -43,9 +43,14 @@
 ```
 * [Python](https://www.python.org/downloads/)
 * [Rust](https://www.rust-lang.org/)
-* 
+* [Go](https://go.dev/)
 ## IDE
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) Erste Installieren und Starten
+* [Clion](https://www.jetbrains.com/de-de/clion/)
+
+## Editor
+
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 
 
