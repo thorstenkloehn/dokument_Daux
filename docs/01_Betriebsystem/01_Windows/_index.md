@@ -3,8 +3,6 @@
 ## Einstellung
 
 ```
-
-
     setx TEMP e:\AppData\Local\Temp
     setx TMP e:\AppData\Local\Temp  
 ```
