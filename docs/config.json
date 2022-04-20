@@ -1,12 +1,12 @@
 {
-  "title": "Ahrensburg.digital",
-  "tagline": "Ahrensburg.digital",
+  "title": "Ahrensburg.dev",
+  "tagline": "Ahrensburg.dev",
   "language": "de",
   "html": {
     "auto_landing": false,
     "auto_toc": false,
     "edit_on_github": "/thorstenkloehn/dokument_Daux/tree/master/docs",
-    "links": {"Lernen": "https://lernen.ahrensburg.digital","ahrensburg blog": "https://blog.ahrensburg.digital"}
+    "links": {"ahrensburg.digital": "https://ahrensburg.digital"}
 
   }
 }
