@@ -6,3 +6,12 @@
 ## Rust 
 * [Allgemein Rust](https://www.tutorialspoint.com/rust)
 
+## Javascript
+* [Allgemein Javascript](https://www.tutorialspoint.com/javascript)
+* [Die ultimative JavaScript Masterclass vom Anfänger zum Profi](https://www.udemy.com/course/javascript-komplett/)
+
+## C++
+* [Allgemein C++](https://www.tutorialspoint.com/cplusplus/)
+
+
+
