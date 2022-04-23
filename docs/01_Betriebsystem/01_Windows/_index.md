@@ -28,7 +28,7 @@
 
 ## Editor
 
-* [Visual Studio cpde](https://code.visualstudio.com/)
+* [Visual Studio code](https://code.visualstudio.com/)
 
 
 
