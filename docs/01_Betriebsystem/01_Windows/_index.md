@@ -21,15 +21,7 @@
 
 ### Programmiersprachen
 * [Python](https://www.python.org/downloads/)
-  [Msys2](https://www.msys2.org/)
-* [MSYS2 Packages](https://packages.msys2.org/updates)
 
-* MSYS2 Console eingeben
-
-
-```
- pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-pkg-config mingw-w64-x86_64-curl mingw-w64-x86_64-cmake
-```
 ## IDE
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) Erste Installieren und Starten
 * [Clion](https://www.jetbrains.com/de-de/clion/)
