@@ -1,5 +1,3 @@
 ## Docker Installieren
 
-```
-sudo apt install docker.io
-```
+* [Docker Installieren](https://docs.docker.com/engine/install/ubuntu/)
