@@ -21,7 +21,7 @@
 
 ### Weblink
 
-* [osgeolive](https://live.osgeo.org/de/overview/geoext_overview.html)
+* [osgeolive](https://live.osgeo.org/de/overview/overview.html)
 * [awesome-gis](https://github.com/sshuair/awesome-gis)
 
 
