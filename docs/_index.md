@@ -16,7 +16,7 @@
 
 * [Geoserver](https://geoserver.org/)
 * [Tegola](https://tegola.io/)
-* [OpenMapTiles](https://openmaptiles.org/)
+
 
 
 ### Weblink
