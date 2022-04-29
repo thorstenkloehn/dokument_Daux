@@ -15,7 +15,7 @@
 ###  Vector Tile Server
 
 * [Geoserver](https://geoserver.org/)
-* [Tegola](https://tegola.io/)
+
 
 
 
@@ -25,5 +25,7 @@
 * [awesome-gis](https://github.com/sshuair/awesome-gis)
 
 
+## Übungen
 
+* [qgis](https://docs.qgis.org/3.22/en/docs/training_manual/index.html)
 
