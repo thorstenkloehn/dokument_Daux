@@ -1,12 +1,12 @@
 ## Gis desktop
-* Qgis desktop
+* [Qgis desktop](https://www.qgis.org/)
 ## Gis Server
-* Qgis Server
-* Geoserver
+* [Geoserver](https://geoserver.org/)
+* [Switch2osm](https://switch2osm.org/)
 ## Datenbank
 
-* PostgreSQL
-* Postgis
+* [PostgreSQL](https://www.postgresql.org/)
+* [Postgis](https://postgis.net/)
 
 ## Web Browser
 
