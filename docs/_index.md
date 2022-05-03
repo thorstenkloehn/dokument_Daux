@@ -9,12 +9,9 @@
 * javascript
 
 ## Frontend Framework
-* Boostrap
-* JQuery
-
+* Bootstrap
+* jQuery
 ## Frontend Gis Software
-
-* Turf
 * Openlayers 
 * Leaflet
 
@@ -35,10 +32,7 @@
 * [Go - Der Kurs zum Buch](https://www.udemy.com/course/go-der-kurs-zum-buch/)
 * [Einführung in Go](https://www.udemy.com/course/einfuhrung-in-go/)
 
-## Javaframework
 
-* React
-* Vue
 
 
 
