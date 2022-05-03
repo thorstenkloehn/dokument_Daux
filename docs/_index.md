@@ -1,6 +1,5 @@
 ## Gis Software
 
-* udig
 * qgis
 * Grass
 
@@ -29,9 +28,6 @@
 
 
 
-
-## Python
-### Django
 ## Java
 ### Spring.io
 ## Go
