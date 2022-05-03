@@ -5,7 +5,6 @@
 * Grass
 
 ## Basic Frontend Web
-* 
 * html
 * css
 * javascript
