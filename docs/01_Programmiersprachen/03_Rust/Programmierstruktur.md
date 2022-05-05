@@ -1,8 +1,0 @@
-## Programmierstruktur
-
-```
-fn main() {
-
-}
-
-```
